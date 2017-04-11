@@ -1,0 +1,24 @@
+body {
+
+	background-color: #1c1c1c;
+}
+
+div {
+
+	vertical-align: middle;
+}
+
+img {
+
+	margin-top: 20%;
+	vertical-align: middle;
+}
+
+input {
+	text-align: center;
+	color: #D2738A;
+	border-color: #D2738A;
+	background-color: #1c1c1c;
+	margin-top: 10px;
+
+}
