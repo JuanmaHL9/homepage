@@ -1,6 +1,7 @@
 body {
-
+	cursor: url(cursor.gif);
 	background-color: #1c1c1c;
+	font-size: 16px;
 }
 
 div {
@@ -20,5 +21,21 @@ input {
 	border-color: #D2738A;
 	background-color: #1c1c1c;
 	margin-top: 10px;
+	margin-bottom: 15px;
 
+}
+
+td {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+a {
+	color: #D2738A;
+    text-decoration: none;
+}
+
+a:visited { 
+    color: #D2738A;
+    text-decoration: none;
 }
